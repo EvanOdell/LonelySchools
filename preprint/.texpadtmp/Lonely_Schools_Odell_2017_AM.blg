@@ -1,0 +1,17 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '/Users/evanodell/Documents/GitHub/lonely-schools/preprint/.texpadtmp/Lonely_Schools_Odell_2017_AM.blg'
+[47] biber-darwin:303> INFO - === Thu Jun 15, 2017, 16:11:59
+[76] Biber.pm:359> INFO - Reading '/Users/evanodell/Documents/GitHub/lonely-schools/preprint/.texpadtmp/Lonely_Schools_Odell_2017_AM.bcf'
+[219] Biber.pm:835> INFO - Found 59 citekeys in bib section 0
+[245] Biber.pm:3670> INFO - Processing section 0
+[262] Biber.pm:3840> INFO - Looking for bibtex format file '/Users/evanodell/Documents/GitHub/lonely-schools/preprint/IsolatedSchools.bib' for section 0
+[270] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[283] bibtex.pm:1292> INFO - Found BibTeX data source '/Users/evanodell/Documents/GitHub/lonely-schools/preprint/IsolatedSchools.bib'
+[343] Utils.pm:164> WARN - ISBN '978-92-64-22835-1 978-92-64-22836-8' in entry 'unescoinstituteforstatistics2015' is invalid - run biber with '--validate_datamodel' for details.
+[650] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[650] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[651] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-GB'
+[651] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-GB'
+[722] bbl.pm:608> INFO - Writing '/Users/evanodell/Documents/GitHub/lonely-schools/preprint/.texpadtmp/Lonely_Schools_Odell_2017_AM.bbl' with encoding 'UTF-8'
+[733] bbl.pm:712> INFO - Output to /Users/evanodell/Documents/GitHub/lonely-schools/preprint/.texpadtmp/Lonely_Schools_Odell_2017_AM.bbl
+[733] Biber.pm:109> INFO - WARNINGS: 1

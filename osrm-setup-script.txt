@@ -1,0 +1,16 @@
+brew install boost git cmake libzip libstxxl libxml2 lua tbb ccache
+git clone https://github.com/Project-OSRM/osrm-backend.git
+cd osrm-backend
+mkdir -p build
+cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release
+cmake --build .
+sudo cmake --build . --target install
+
+wget http://download.geofabrik.de/europe/great-britain/england-latest.osm.pbf
+osrm-extract -p ../profiles/car.lua england-latest.osm.pbf
+
+osrm-extract england-latest.osm.pbf -p profiles/car.lua
+
+./osrm-contract england-latest.osrm
+osrm-routed --max-table-size=999999999 england-latest.osrm

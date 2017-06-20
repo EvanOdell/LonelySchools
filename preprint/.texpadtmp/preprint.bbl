@@ -1,0 +1,2268 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{allen2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ffffae3a92c38072d31ee3c4038ba77c}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffffae3a92c38072d31ee3c4038ba77c}
+      \strng{fullhash}{ffffae3a92c38072d31ee3c4038ba77c}
+      \strng{authornamehash}{ffffae3a92c38072d31ee3c4038ba77c}
+      \strng{authorfullhash}{ffffae3a92c38072d31ee3c4038ba77c}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Urban Studies}
+      \field{number}{4}
+      \field{title}{Allocating Pupils to Their Nearest School: The Consequences for Ability and Social Stratification}
+      \field{volume}{44}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{751\bibrangedash 770}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/00420980601184737
+      \endverb
+    \endentry
+    \entry{armstrong2015}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5a30005598fc16609b03927fc842ad98}{%
+           family={Armstrong},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department of Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{5a30005598fc16609b03927fc842ad98}
+      \strng{fullhash}{5a30005598fc16609b03927fc842ad98}
+      \strng{authornamehash}{5a30005598fc16609b03927fc842ad98}
+      \strng{authorfullhash}{5a30005598fc16609b03927fc842ad98}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Effective School Partnerships and Collaboration for School Improvement}
+      \field{title}{Effective School Partnerships and Collaboration for School Improvement: A Review of the Evidence: {{Research}} Report}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://dera.ioe.ac.uk/24523/1/DFE-RR466_-_School_improvement_effective_school_partnerships.pdf
+      \endverb
+    \endentry
+    \entry{baars2014}{report}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=770ed929176380f57b946e7f4db852eb}{%
+           family={Baars},
+           familyi={B\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=0caeb802e38120ffd26bb281771fb9e8}{%
+           family={Bernardes},
+           familyi={B\bibinitperiod},
+           given={Eleanor},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=76d1fdb655254727cdd67c3b4faaceeb}{%
+           family={Elwick},
+           familyi={E\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=ddeb0e51982de6d0ba8ff7b831f6bcbd}{%
+           family={Malortie},
+           familyi={M\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=258bb3fb9ae9b33b247e542c7880d3cb}{%
+           family={McAleavy},
+           familyi={M\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=9492e719af13dbdad6b8059e23017a7a}{%
+           family={McInerney},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{uniquename=0,hash=6b7c1aab76129df8ccc79e8418491a00}{%
+           family={Menzies},
+           familyi={M\bibinitperiod},
+           given={Loic},
+           giveni={L\bibinitperiod}}}%
+        {{uniquename=0,hash=9d7e1482b2bb6f671484d7174d3d8c0f}{%
+           family={Riggall},
+           familyi={R\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {CfBT Education Trust}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{ef5d074d1ddd40c87b8aaddd1e7a51f8}
+      \strng{fullhash}{b3676c63b2402a34f7c885ac6f996cda}
+      \strng{authornamehash}{ef5d074d1ddd40c87b8aaddd1e7a51f8}
+      \strng{authorfullhash}{b3676c63b2402a34f7c885ac6f996cda}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lessons from {{London Schools}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{136}
+      \range{pages}{1}
+      \verb{url}
+      \verb http://www.centreforlondon.org/wp-content/uploads/2016/08/Lessons-from-London-Schools.pdf
+      \endverb
+    \endentry
+    \entry{bibby2004}{report}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0e9ac374c63577d5e76b3ea0ba7bc641}{%
+           family={Bibby},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=12110274638993afc3614d8a7a95b0ee}{%
+           family={Shepherd},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Environment, Food and Rural Affairs}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{4b5429030270aea40847b23f3341ac02}
+      \strng{fullhash}{4b5429030270aea40847b23f3341ac02}
+      \strng{authornamehash}{4b5429030270aea40847b23f3341ac02}
+      \strng{authorfullhash}{4b5429030270aea40847b23f3341ac02}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Developing a New Classification of Urban and Rural Areas for Policy Purposes–the Methodology}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/239084/2001-rural-urban-definition-methodology-technical.pdf
+      \endverb
+    \endentry
+    \entry{blanden2015}{report}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=b2922a4c80d05dff7750e984dc1dd6c6}{%
+           family={Blanden},
+           familyi={B\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=285df8412187fab017ffd55f0938ce0c}{%
+           family={Greaves},
+           familyi={G\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=89f1dc0f23564478e2975d628f596817}{%
+           family={Gregg},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=4392554443bb36c757df7954c504e8ec}{%
+           family={Macmillan},
+           familyi={M\bibinitperiod},
+           given={Lindsey},
+           giveni={L\bibinitperiod}}}%
+        {{uniquename=0,hash=fa063057f775dc2f280b604ae19a3aca}{%
+           family={Sibieta},
+           familyi={S\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Centre for Analysis of Social Exclusion, LSE}%
+      }
+      \strng{namehash}{0e390e989c930a825e1e9d9d1f1d23f5}
+      \strng{fullhash}{ab6fef13dcea6d5810beef18804e61bc}
+      \strng{authornamehash}{0e390e989c930a825e1e9d9d1f1d23f5}
+      \strng{authorfullhash}{ab6fef13dcea6d5810beef18804e61bc}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding the Improved Performance of Disadvantaged Pupils in {{London}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://sticerd.lse.ac.uk/dps/case/spcc/WP21.pdf
+      \endverb
+    \endentry
+    \entry{bradley2001}{article}{}
+      \name{author}{3}{uniquelist=2}{%
+        {{uniquename=0,hash=3a82f7362562ba5c850e383883782c64}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=f70aa4bcb459bb9080951e819e9c835e}{%
+           family={Johnes},
+           familyi={J\bibinitperiod},
+           given={Geraint},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=968828a92f6ba073a0d119217477b387}{%
+           family={Millington},
+           familyi={M\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d28409d11d83c655b350d3a459ba412d}
+      \strng{fullhash}{73018b444383e75a4071742aa361360b}
+      \strng{authornamehash}{d28409d11d83c655b350d3a459ba412d}
+      \strng{authorfullhash}{73018b444383e75a4071742aa361360b}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{3}
+      \field{title}{The Effect of Competition on the Efficiency of Secondary Schools in {{England}}}
+      \field{volume}{135}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{545\bibrangedash 568}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/S0377-2217(00)00328-3
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0377221700003283
+      \endverb
+    \endentry
+    \entry{bradley2002}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3a82f7362562ba5c850e383883782c64}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=aa9d510c67b4cd94b91042cd54ed9e56}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{900097ef6b35f80b0811568512dce6e6}
+      \strng{fullhash}{900097ef6b35f80b0811568512dce6e6}
+      \strng{authornamehash}{900097ef6b35f80b0811568512dce6e6}
+      \strng{authorfullhash}{900097ef6b35f80b0811568512dce6e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin of Economic Research}
+      \field{number}{3}
+      \field{title}{The {{Effect}} of the {{Quasi}}–market on the {{Efficiency}}–equity {{Trade}}–off in the {{Secondary School Sector}}}
+      \field{volume}{54}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{295\bibrangedash 314}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/1467-8586.00154
+      \endverb
+      \keyw{Education Policy Option}
+    \endentry
+    \entry{bradley2010}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=3a82f7362562ba5c850e383883782c64}{%
+           family={Bradley},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=aa9d510c67b4cd94b91042cd54ed9e56}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{900097ef6b35f80b0811568512dce6e6}
+      \strng{fullhash}{900097ef6b35f80b0811568512dce6e6}
+      \strng{authornamehash}{900097ef6b35f80b0811568512dce6e6}
+      \strng{authorfullhash}{900097ef6b35f80b0811568512dce6e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{03059049, 14680084}
+      \field{journaltitle}{Oxford Bulletin of Economics and Statistics}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Diversity, {{Choice}} and the {{Quasi}}-Market}
+      \field{title}{Diversity, {{Choice}} and the {{Quasi}}-Market: {{An Empirical Analysis}} of {{Secondary Education Policy}} in {{England}}}
+      \field{volume}{72}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 26}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1111/j.1468-0084.2009.00572.x
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/j.1468-0084.2009.00572.x
+      \endverb
+    \endentry
+    \entry{breen2005}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d5f16ec1fa8e49492a57c19c2b3e8bcf}{%
+           family={Breen},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=d36474af9601c8eaa94e8429cb1e3853}{%
+           family={Jonsson},
+           familyi={J\bibinitperiod},
+           given={Jan\bibnamedelima O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{617f2178813a2236e6d48aee23860f74}
+      \strng{fullhash}{617f2178813a2236e6d48aee23860f74}
+      \strng{authornamehash}{617f2178813a2236e6d48aee23860f74}
+      \strng{authorfullhash}{617f2178813a2236e6d48aee23860f74}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Sociology}
+      \field{note}{00580}
+      \field{title}{Inequality of Opportunity in Comparative Perspective: {{Recent}} Research on Educational Attainment and Social Mobility}
+      \field{volume}{31}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{223\bibrangedash 243}
+      \range{pages}{21}
+      \keyw{Comparative Studies,Educational Inequality,Education Policy Option,Intergenerational Inheritance,Social Reproduction}
+    \endentry
+    \entry{broadhurst2008}{book}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=719d5760cdcefc5a73c371e4fed2d7d5}{%
+           family={Broadhurst},
+           familyi={B\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=36f9c9695c0a88deba28aa3f68d27ae1}{%
+           family={Owen},
+           familyi={O\bibinitperiod},
+           given={Katy},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=8144aca10352fabb67284debd546ffea}{%
+           family={Keats},
+           familyi={K\bibinitperiod},
+           given={Gemma},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=0c8d1407d2cd7deed7db92bfa06c3136}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Emmeline},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Birmingham}%
+      }
+      \list{publisher}{1}{%
+        {NASUWT}%
+      }
+      \strng{namehash}{d1fbab027d57bde10198077915676b02}
+      \strng{fullhash}{c734a4c5d6c58c3d38f37e4d66048e12}
+      \strng{authornamehash}{d1fbab027d57bde10198077915676b02}
+      \strng{authorfullhash}{c734a4c5d6c58c3d38f37e4d66048e12}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-906611-07-1}
+      \field{langid}{english}
+      \field{shorttitle}{One More Broken Window}
+      \field{title}{One More Broken Window: The Impact of the Physical Environment on Schools : A Report for the {{NASUWT}}}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bynner2002}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=60a11a18219ebe8c7aa283d3e18e1732}{%
+           family={Bynner},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=eda1e263d66d1779f3ce5ea2420d41e9}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Heather\bibnamedelima E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{84900e954c05b3260374f72abeb13cb9}
+      \strng{fullhash}{84900e954c05b3260374f72abeb13cb9}
+      \strng{authornamehash}{84900e954c05b3260374f72abeb13cb9}
+      \strng{authorfullhash}{84900e954c05b3260374f72abeb13cb9}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0305-4985, 1465-3915}
+      \field{journaltitle}{Oxford Review of Education}
+      \field{langid}{english}
+      \field{number}{4}
+      \field{shorttitle}{Equality and {{Opportunity}} in {{Education}}}
+      \field{title}{Equality and {{Opportunity}} in {{Education}}: {{Evidence}} from the 1958 and 1970 Birth Cohort Studies}
+      \field{volume}{28}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{405\bibrangedash 425}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/0305498022000013599
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/0305498022000013599
+      \endverb
+    \endentry
+    \entry{coleman1968}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fe52bf156a34888d8c1bc0fecfe6c2e3}{%
+           family={Coleman},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe52bf156a34888d8c1bc0fecfe6c2e3}
+      \strng{fullhash}{fe52bf156a34888d8c1bc0fecfe6c2e3}
+      \strng{authornamehash}{fe52bf156a34888d8c1bc0fecfe6c2e3}
+      \strng{authorfullhash}{fe52bf156a34888d8c1bc0fecfe6c2e3}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Harvard Educational Review}
+      \field{number}{1}
+      \field{title}{The Concept of Equality of Educational Opportunity}
+      \field{volume}{38}
+      \field{year}{1968}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 22}
+      \range{pages}{16}
+      \verb{url}
+      \verb http://her.hepg.org/index/M3770776577415M2.pdf
+      \endverb
+    \endentry
+    \entry{departmentforcommunitiesandlocalgovernment2015}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c914368e0e40edfcbdddbdf691769a65}{%
+           family={{Department for Communities and Local Government}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Communities and Local Government}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{c914368e0e40edfcbdddbdf691769a65}
+      \strng{fullhash}{c914368e0e40edfcbdddbdf691769a65}
+      \strng{authornamehash}{c914368e0e40edfcbdddbdf691769a65}
+      \strng{authorfullhash}{c914368e0e40edfcbdddbdf691769a65}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{English Indices of Deprivation}
+      \field{title}{The {{English Indices}} of {{Deprivation}} 2015}
+      \field{type}{Statistical {{Release}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
+      \endverb
+    \endentry
+    \entry{departmentforeducation2014b}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588e0878ac9f2c201282aef6c25c1487}{%
+           family={{Department for Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{fullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authornamehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authorfullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{SFR05/2014}
+      \field{series}{Statistics: GCSEs (key stage 4)}
+      \field{shorttitle}{{{GCSE}} and Equivalent Attainment by Pupil Characteristics in {{England}}}
+      \field{title}{{{GCSE}} and Equivalent Attainment by Pupil Characteristics in {{England}}: 2012/13}
+      \field{type}{Statistical {{First Release}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/statistics/gcse-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013
+      \endverb
+    \endentry
+    \entry{departmentforeducation2015b}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588e0878ac9f2c201282aef6c25c1487}{%
+           family={{Department for Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{fullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authornamehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authorfullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{extrayear}{1}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{SFR06/2015}
+      \field{series}{Statistics: GCSEs (key stage 4)}
+      \field{title}{{{GCSE}} and Equivalent Attainment by Pupil Characteristics, 2013 to 2014 ({{Revised}})}
+      \field{type}{Statistical {{First Release}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/statistics/gcse-and-equivalent-attainment-by-pupil-characteristics-2014
+      \endverb
+    \endentry
+    \entry{departmentforeducation2015c}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588e0878ac9f2c201282aef6c25c1487}{%
+           family={{Department for Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{fullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authornamehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authorfullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{extrayear}{2}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Statutory guidance for organisations which work with and support children and young people who have special educational needs or disabilities}
+      \field{title}{Special Educational Needs and Disability Code of Practice: 0 to 25 Years}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{departmentforeducation2015a}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588e0878ac9f2c201282aef6c25c1487}{%
+           family={{Department for Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{fullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authornamehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authorfullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{extrayear}{3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{SFR 23/2015}
+      \field{title}{Special Educational Needs in {{England}}: {{January}} 2015}
+      \field{type}{Statistical {{First Release}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{departmentforeducation2016b}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588e0878ac9f2c201282aef6c25c1487}{%
+           family={{Department for Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{fullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authornamehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authorfullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{extrayear}{1}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ISBN: 978-1-4741-3016-5}
+      \field{langid}{english}
+      \field{number}{Cm 9230}
+      \field{title}{Educational {{Excellence Everywhere}}}
+      \field{type}{Policy {{Paper}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/publications/educational-excellence-everywhere
+      \endverb
+    \endentry
+    \entry{departmentforeducation2016}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588e0878ac9f2c201282aef6c25c1487}{%
+           family={{Department for Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{fullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authornamehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authorfullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{extrayear}{2}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{SFR 01/2016}
+      \field{series}{Statistics: GCSEs (key stage 4)}
+      \field{title}{Revised {{GCSE}} and Equivalent Results in {{England}}, 2014 to 2015}
+      \field{type}{Statistical {{First Release}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/statistics/revised-gcse-and-equivalent-results-in-england-2014-to-2015
+      \endverb
+    \endentry
+    \entry{departmentforeducation2016c}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588e0878ac9f2c201282aef6c25c1487}{%
+           family={{Department for Education}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{fullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authornamehash}{588e0878ac9f2c201282aef6c25c1487}
+      \strng{authorfullhash}{588e0878ac9f2c201282aef6c25c1487}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{extrayear}{3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{SFR 01/2016}
+      \field{series}{Statistics: GCSEs (key stage 4)}
+      \field{title}{Revised {{GCSE}} and Equivalent Results in {{England}}, 2014 to 2015: {{Quality}} and Methodology Information}
+      \field{type}{Statistical {{First Release}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/493295/SFR01_2016_QualityandMethodology.pdf
+      \endverb
+    \endentry
+    \entry{dewey1916}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=03b3356eb23d298d57635488371299f9}{%
+           family={Dewey},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{03b3356eb23d298d57635488371299f9}
+      \strng{fullhash}{03b3356eb23d298d57635488371299f9}
+      \strng{authornamehash}{03b3356eb23d298d57635488371299f9}
+      \strng{authorfullhash}{03b3356eb23d298d57635488371299f9}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{00005}
+      \field{title}{Democracy and {{Education}}: {{An Introduction}} to the {{Philosophy}} of {{Education}}}
+      \field{year}{1916}
+      \field{dateera}{ce}
+      \keyw{Education Policy Option}
+    \endentry
+    \entry{fong2015}{unpublished}{}
+      \name{author}{3}{uniquelist=2}{%
+        {{uniquename=0,hash=d8659ecfb01b901b29a5dda6ef7c06fb}{%
+           family={Fong},
+           familyi={F\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c3de901751a69bd69e344f3901d6d0cf}{%
+           family={Hazlett},
+           familyi={H\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=3fb69a8c942c769b74775b484c82bbe9}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Kosuke},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cd3137399775f185ca41047413d024c}
+      \strng{fullhash}{72bf9235a33f0ac95c96851d9bfe9392}
+      \strng{authornamehash}{2cd3137399775f185ca41047413d024c}
+      \strng{authorfullhash}{72bf9235a33f0ac95c96851d9bfe9392}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Covariate {{Balancing Propensity Score}} for {{General Treatment Regimes}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://imai.princeton.edu/research/files/CBGPS.pdf
+      \endverb
+    \endentry
+    \entry{fong2016}{book}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,hash=d8659ecfb01b901b29a5dda6ef7c06fb}{%
+           family={Fong},
+           familyi={F\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=626622cd52bb2bc0bd50a45b241ac180}{%
+           family={Ratkovic},
+           familyi={R\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=c3de901751a69bd69e344f3901d6d0cf}{%
+           family={Hazlett},
+           familyi={H\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=c1534197aa50996187122144d9a54933}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xiaolin},
+           giveni={X\bibinitperiod}}}%
+        {{uniquename=0,hash=3fb69a8c942c769b74775b484c82bbe9}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Kosuke},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f695d25219cfb67b57d12ac624a1068c}
+      \strng{fullhash}{f49d93ba8aa0e0a3751a8e511999bb03}
+      \strng{authornamehash}{f695d25219cfb67b57d12ac624a1068c}
+      \strng{authorfullhash}{f49d93ba8aa0e0a3751a8e511999bb03}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{CBPS}}: {{Covariate Balancing Propensity Score}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=CBPS
+      \endverb
+    \endentry
+    \entry{fowles2014}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=5ec94830e77aa243867c2b83c78dff87}{%
+           family={Fowles},
+           familyi={F\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=8bbfca4b9bf10c68c5dced8b378eb417}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{uniquename=0,hash=e1db8d04a3e5869b03ebc60c9418f3da}{%
+           family={Cowen},
+           familyi={C\bibinitperiod},
+           given={Joshua\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=426a9081e0258accae917d3f6e552272}{%
+           family={Streams},
+           familyi={S\bibinitperiod},
+           given={Megan\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{uniquename=0,hash=0af2a8939c49bf9652aff23a9f51950b}{%
+           family={Toma},
+           familyi={T\bibinitperiod},
+           given={Eugenia\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a565471d430a6cc8e811295bac607b2}
+      \strng{fullhash}{39abe3adc09aff67d39e1049ccc3bdd2}
+      \strng{authornamehash}{7a565471d430a6cc8e811295bac607b2}
+      \strng{authorfullhash}{39abe3adc09aff67d39e1049ccc3bdd2}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Review of Public Administration}
+      \field{number}{5}
+      \field{title}{Public Employee Quality in a Geographic Context a Study of Rural Teachers}
+      \field{volume}{44}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{503\bibrangedash 521}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1177/0275074012474714
+      \endverb
+      \verb{url}
+      \verb http://arp.sagepub.com/content/44/5/503.short
+      \endverb
+    \endentry
+    \entry{gibbons2008a}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=eeeaf8a961d9bf66344a2651513042a2}{%
+           family={Gibbons},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=891fe03f7000e36cd331bdd383e15b7d}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Olmo},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{70515ecde0dcd7278ff19e1b2dec4426}
+      \strng{fullhash}{70515ecde0dcd7278ff19e1b2dec4426}
+      \strng{authornamehash}{70515ecde0dcd7278ff19e1b2dec4426}
+      \strng{authorfullhash}{70515ecde0dcd7278ff19e1b2dec4426}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00941190}
+      \field{journaltitle}{Journal of Urban Economics}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{Urban Density and Pupil Attainment}
+      \field{volume}{63}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{631\bibrangedash 650}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.jue.2007.04.006
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S0094119007000721
+      \endverb
+    \endentry
+    \entry{gibbons2010}{report}{}
+      \name{author}{3}{uniquelist=3}{%
+        {{uniquename=0,hash=eeeaf8a961d9bf66344a2651513042a2}{%
+           family={Gibbons},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=891fe03f7000e36cd331bdd383e15b7d}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Olmo},
+           giveni={O\bibinitperiod}}}%
+        {{uniquename=0,hash=6afe8e079f97bc58ab61c62c6440f37a}{%
+           family={Weinhardt},
+           familyi={W\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Spatial Economics Research Centre}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{08cf58ede1542144b19946923a08ffb3}
+      \strng{fullhash}{08cf58ede1542144b19946923a08ffb3}
+      \strng{authornamehash}{08cf58ede1542144b19946923a08ffb3}
+      \strng{authorfullhash}{08cf58ede1542144b19946923a08ffb3}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{63}
+      \field{shorttitle}{Do Neighbours Affect Teenage Outcomes?}
+      \field{title}{Do Neighbours Affect Teenage Outcomes?: Evidence from Neighbourhood Changes in {{England}}}
+      \field{type}{Serc {{Discussion Paper}}}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://eprints.lse.ac.uk/30797/
+      \endverb
+    \endentry
+    \entry{gibbons2013}{article}{}
+      \name{author}{3}{uniquelist=3}{%
+        {{uniquename=0,hash=eeeaf8a961d9bf66344a2651513042a2}{%
+           family={Gibbons},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=891fe03f7000e36cd331bdd383e15b7d}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Olmo},
+           giveni={O\bibinitperiod}}}%
+        {{uniquename=0,hash=6afe8e079f97bc58ab61c62c6440f37a}{%
+           family={Weinhardt},
+           familyi={W\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{08cf58ede1542144b19946923a08ffb3}
+      \strng{fullhash}{08cf58ede1542144b19946923a08ffb3}
+      \strng{authornamehash}{08cf58ede1542144b19946923a08ffb3}
+      \strng{authorfullhash}{08cf58ede1542144b19946923a08ffb3}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00130133}
+      \field{journaltitle}{The Economic Journal}
+      \field{langid}{english}
+      \field{number}{571}
+      \field{shorttitle}{Everybody {{Needs Good Neighbours}}?}
+      \field{title}{Everybody {{Needs Good Neighbours}}? {{Evidence}} from {{Students}}’ {{Outcomes}} in {{England}}}
+      \field{volume}{123}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{831\bibrangedash 874}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1111/ecoj.12025
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1111/ecoj.12025
+      \endverb
+    \endentry
+    \entry{giraud2016}{software}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=04457fc15b7c68ae867a00465b22ee0f}{%
+           family={Giraud},
+           familyi={G\bibinitperiod},
+           given={Timothée},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{04457fc15b7c68ae867a00465b22ee0f}
+      \strng{fullhash}{04457fc15b7c68ae867a00465b22ee0f}
+      \strng{authornamehash}{04457fc15b7c68ae867a00465b22ee0f}
+      \strng{authorfullhash}{04457fc15b7c68ae867a00465b22ee0f}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Osrm: {{Interface Between R}} and the {{OpenStreetMap}}-{{Based Routing Service OSRM}}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=osrm
+      \endverb
+    \endentry
+    \entry{glennerster1991}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bf58da8b7a67ba6f81c40e95ef22fda5}{%
+           family={Glennerster},
+           familyi={G\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf58da8b7a67ba6f81c40e95ef22fda5}
+      \strng{fullhash}{bf58da8b7a67ba6f81c40e95ef22fda5}
+      \strng{authornamehash}{bf58da8b7a67ba6f81c40e95ef22fda5}
+      \strng{authorfullhash}{bf58da8b7a67ba6f81c40e95ef22fda5}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The economic journal}
+      \field{number}{408}
+      \field{title}{Quasi-Markets for Education?}
+      \field{volume}{101}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \field{pages}{1268\bibrangedash 1276}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.2307/2234442
+      \endverb
+      \keyw{Education Policy Option}
+    \endentry
+    \entry{green2010}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7c8ad772c02dc315124ac0238cc8f08c}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Rosie},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Centre for Lifecourse Studies}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{7c8ad772c02dc315124ac0238cc8f08c}
+      \strng{fullhash}{7c8ad772c02dc315124ac0238cc8f08c}
+      \strng{authornamehash}{7c8ad772c02dc315124ac0238cc8f08c}
+      \strng{authorfullhash}{7c8ad772c02dc315124ac0238cc8f08c}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{4.2}
+      \field{title}{Educational {{Attainment Among Young People}} in {{Rural England}} – {{A Multilevel Analysis}}}
+      \field{type}{An {{ESRC Research Centre ICLS Occasional Paper Series}}}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{halsey2014}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b296698053ec38d1f56415e4ab573c9b}{%
+           family={Halsey},
+           familyi={H\bibinitperiod},
+           given={R.\bibnamedelimi John},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=37a8c4177f62c2a95a8d3fdbaf0ceb97}{%
+           family={Drummond},
+           familyi={D\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{29bb6f744d4308183b8e37de9e5f634f}
+      \strng{fullhash}{29bb6f744d4308183b8e37de9e5f634f}
+      \strng{authornamehash}{29bb6f744d4308183b8e37de9e5f634f}
+      \strng{authorfullhash}{29bb6f744d4308183b8e37de9e5f634f}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1839-7387}
+      \field{journaltitle}{Australian and International Journal of Rural Education}
+      \field{number}{1}
+      \field{title}{Reasons and Motivations of School Leaders Who Apply for Rural, Regional and Remote Locations in {{Australia}}}
+      \field{volume}{41}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{69\bibrangedash 77}
+      \range{pages}{9}
+      \verb{url}
+      \verb http://search.informit.com.au/documentSummary;dn=197128019546363;res=IELHSS
+      \endverb
+    \endentry
+    \entry{hammond1995}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1096ef81bba8e81bd52e86d4f24c3717}{%
+           family={Hammond},
+           familyi={H\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=24f0ec54f13c74b96d52cfa821562779}{%
+           family={Dennison},
+           familyi={D\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c45e532e40b5e48db75cff426379a63b}
+      \strng{fullhash}{c45e532e40b5e48db75cff426379a63b}
+      \strng{authornamehash}{c45e532e40b5e48db75cff426379a63b}
+      \strng{authorfullhash}{c45e532e40b5e48db75cff426379a63b}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Management \& Administration}
+      \field{number}{2}
+      \field{title}{School Choice in Less Populated Areas}
+      \field{volume}{23}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{pages}{104\bibrangedash 113}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/174114329502300205
+      \endverb
+      \verb{url}
+      \verb http://ema.sagepub.com/content/23/2/104.short
+      \endverb
+    \endentry
+    \entry{hutchings2012}{report}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=dfe9d4f001e24ae2cb901a6672aec6b8}{%
+           family={Hutchings},
+           familyi={H\bibinitperiod},
+           given={Merryn},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=4b2f76d4158c3467b61a9c42aaaccc75}{%
+           family={Greenwood},
+           familyi={G\bibinitperiod},
+           given={Charley},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=204c185029bedbc3d9febd6e7d3812d9}{%
+           family={Hollingworth},
+           familyi={H\bibinitperiod},
+           given={Sumi},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=6f7e5dc8126fa459b27ee65903323fcf}{%
+           family={Mansaray},
+           familyi={M\bibinitperiod},
+           given={Ayo},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=eb5d6198834d8ab2d2ddb23f5c32d095}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Anthea},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=c534fa7e92674c8e2f677e8153f51324}{%
+           family={Minty},
+           familyi={M\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=c25b50236e376c222e03a8679dea3988}{%
+           family={Glass},
+           familyi={G\bibinitperiod},
+           given={Katy},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{0062226e37bb58fad4998a6601211d3e}
+      \strng{fullhash}{da565697d13b2a1503e221c67714d4e1}
+      \strng{authornamehash}{0062226e37bb58fad4998a6601211d3e}
+      \strng{authorfullhash}{da565697d13b2a1503e221c67714d4e1}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{DFE-RR215}
+      \field{title}{Evaluation of the {{City Challenge}} Programme}
+      \field{type}{Research {{Report}}}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/184093/DFE-RR215.pdf
+      \endverb
+    \endentry
+    \entry{luxen2011}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c39b75997fba2969cf9ffeccc6176e97}{%
+           family={Luxen},
+           familyi={L\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=b84a32e29c57604b46ef3ae4cf7ba6ab}{%
+           family={Vetter},
+           familyi={V\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{097fad2cb4654f4012500037905f5b22}
+      \strng{fullhash}{097fad2cb4654f4012500037905f5b22}
+      \strng{authornamehash}{097fad2cb4654f4012500037905f5b22}
+      \strng{authorfullhash}{097fad2cb4654f4012500037905f5b22}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 19th {{ACM SIGSPATIAL International Conference}} on {{Advances}} in {{Geographic Information Systems}}}
+      \field{isbn}{978-1-4503-1031-4}
+      \field{series}{GIS '11}
+      \field{title}{Real-Time Routing with {{OpenStreetMap}} Data}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{513\bibrangedash 516}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1145/2093973.2094062
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2093973.2094062
+      \endverb
+    \endentry
+    \entry{macleod2015}{book}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=a62c775c79a758d71b618370ea8900d3}{%
+           family={Macleod},
+           familyi={M\bibinitperiod},
+           given={Shona},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=02e0e54aea7d78af0023f02bdeed83eb}{%
+           family={Sharp},
+           familyi={S\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=aca557fabe9d2eafac195c9795ab8517}{%
+           family={Bernadinelli},
+           familyi={B\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=b2d23f5c4f2732f5a29d61467f665eda}{%
+           family={Skipp},
+           familyi={S\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=1615c06551843bbdb86bec85aa4ed292}{%
+           family={Higgins},
+           familyi={H\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Department for Education}%
+      }
+      \strng{namehash}{743a98836ccc3b1c94c27f21a4b9687e}
+      \strng{fullhash}{59f21a602094513e21e41f2118a03730}
+      \strng{authornamehash}{743a98836ccc3b1c94c27f21a4b9687e}
+      \strng{authorfullhash}{59f21a602094513e21e41f2118a03730}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-78105-518-2}
+      \field{langid}{english}
+      \field{pagetotal}{146}
+      \field{title}{Supporting the Attainment of Disadvantaged Pupils: Articulating Success and Good Practice}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/473974/DFE-RR411_Supporting_the_attainment_of_FSM_students.pdf
+      \endverb
+    \endentry
+    \entry{maranto2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1e14bd4792a1ffbf2284626e19d0f898}{%
+           family={Maranto},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=5d1c55b7e0d8aa7988bc4c8a2ad6249a}{%
+           family={Shuls},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{b84e870a280e03229da9264cda5590bd}
+      \strng{fullhash}{b84e870a280e03229da9264cda5590bd}
+      \strng{authornamehash}{b84e870a280e03229da9264cda5590bd}
+      \strng{authorfullhash}{b84e870a280e03229da9264cda5590bd}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Rural Educator}
+      \field{number}{1}
+      \field{shorttitle}{How {{Do We Get Them}} on the {{Farm}}?}
+      \field{title}{How {{Do We Get Them}} on the {{Farm}}? {{Efforts}} to {{Improve Rural Teacher Recruitment}} and {{Retention}} in {{Arkansas}}.}
+      \field{volume}{34}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{n1}
+      \range{pages}{-1}
+      \verb{url}
+      \verb http://eric.ed.gov/?id=EJ1000101
+      \endverb
+    \endentry
+    \entry{mcculloch2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cf92af654ff9d3bf8b1ae7d4cba2b36f}{%
+           family={McCulloch},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf92af654ff9d3bf8b1ae7d4cba2b36f}
+      \strng{fullhash}{cf92af654ff9d3bf8b1ae7d4cba2b36f}
+      \strng{authornamehash}{cf92af654ff9d3bf8b1ae7d4cba2b36f}
+      \strng{authorfullhash}{cf92af654ff9d3bf8b1ae7d4cba2b36f}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{02779536}
+      \field{journaltitle}{Social Science \& Medicine}
+      \field{langid}{english}
+      \field{number}{8}
+      \field{title}{Variation in Children's Cognitive and Behavioural Adjustment between Different Types of Place in the {{British National Child Development Study}}}
+      \field{volume}{62}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{1865\bibrangedash 1879}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.socscimed.2005.08.048
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S0277953605004661
+      \endverb
+    \endentry
+    \entry{mcculloch2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=cf92af654ff9d3bf8b1ae7d4cba2b36f}{%
+           family={McCulloch},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=eda1e263d66d1779f3ce5ea2420d41e9}{%
+           family={Joshi},
+           familyi={J\bibinitperiod},
+           given={Heather\bibnamedelima E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{292f27ea984701f67b35ba3d9e5da6e0}
+      \strng{fullhash}{292f27ea984701f67b35ba3d9e5da6e0}
+      \strng{authornamehash}{292f27ea984701f67b35ba3d9e5da6e0}
+      \strng{authorfullhash}{292f27ea984701f67b35ba3d9e5da6e0}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social science \& medicine}
+      \field{number}{5}
+      \field{title}{Neighbourhood and Family Influences on the Cognitive Ability of Children in the {{British National Child Development Study}}}
+      \field{volume}{53}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{579\bibrangedash 591}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/S0277-9536(00)00362-2
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0277953600003622
+      \endverb
+    \endentry
+    \entry{midouhas2015}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0229203ad7a4699bc1e9d3e29c644dc4}{%
+           family={Midouhas},
+           familyi={M\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=0ba59e37b10407a658d6f0a0fab03b7b}{%
+           family={Flouri},
+           familyi={F\bibinitperiod},
+           given={Eirini},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{262676c80a25ae5f821d864f0978272d}
+      \strng{fullhash}{262676c80a25ae5f821d864f0978272d}
+      \strng{authornamehash}{262676c80a25ae5f821d864f0978272d}
+      \strng{authorfullhash}{262676c80a25ae5f821d864f0978272d}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{15448444}
+      \field{journaltitle}{Population, Space and Place}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shorttitle}{Rural/{{Urban Area Differences}} in the {{Cognitive Abilities}} of {{Primary School Children}} in {{England}}}
+      \field{title}{Rural/{{Urban Area Differences}} in the {{Cognitive Abilities}} of {{Primary School Children}} in {{England}}: {{Rurality}}/{{Urbanity}} and {{Child Ability}} in {{England}}}
+      \field{volume}{21}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{157\bibrangedash 170}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1002/psp.1815
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/psp.1815
+      \endverb
+    \endentry
+    \entry{morgan2013}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e96a2f65d44bd130e60bdbd5e5e2f3b4}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Rosemary},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=4a4bc1ffa7d5ff8425dbd5224d32072f}{%
+           family={Blackmore},
+           familyi={B\bibinitperiod},
+           given={Jill},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e15094ddac5ed30ce4d4908e99ad11e2}
+      \strng{fullhash}{e15094ddac5ed30ce4d4908e99ad11e2}
+      \strng{authornamehash}{e15094ddac5ed30ce4d4908e99ad11e2}
+      \strng{authorfullhash}{e15094ddac5ed30ce4d4908e99ad11e2}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-0620, 1478-7431}
+      \field{journaltitle}{Journal of Educational Administration and History}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{How Parental and School Responses to Choice Policies Reconfigure a Rural Education Market in {{Victoria}}, {{Australia}}}
+      \field{volume}{45}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{84\bibrangedash 109}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1080/00220620.2013.730506
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/00220620.2013.730506
+      \endverb
+    \endentry
+    \entry{muijs2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3b2805c29f120dc18d3a8fcdbf7acb93}{%
+           family={Muijs},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b2805c29f120dc18d3a8fcdbf7acb93}
+      \strng{fullhash}{3b2805c29f120dc18d3a8fcdbf7acb93}
+      \strng{authornamehash}{3b2805c29f120dc18d3a8fcdbf7acb93}
+      \strng{authorfullhash}{3b2805c29f120dc18d3a8fcdbf7acb93}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1365-4802}
+      \field{journaltitle}{Improving Schools}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Widening Opportunities?}
+      \field{title}{Widening Opportunities? {{A}} Case Study of School-to-School Collaboration in a Rural District}
+      \field{volume}{11}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{61\bibrangedash 73}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1177/1365480207086755
+      \endverb
+      \verb{url}
+      \verb http://imp.sagepub.com/cgi/doi/10.1177/1365480207086755
+      \endverb
+    \endentry
+    \entry{nationalcentreforsocialresearch2009}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bb40cc5ca3a2fb7ed6b8231783d44d9b}{%
+           family={{National Centre for Social Research}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{bb40cc5ca3a2fb7ed6b8231783d44d9b}
+      \strng{fullhash}{bb40cc5ca3a2fb7ed6b8231783d44d9b}
+      \strng{authornamehash}{bb40cc5ca3a2fb7ed6b8231783d44d9b}
+      \strng{authorfullhash}{bb40cc5ca3a2fb7ed6b8231783d44d9b}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Educational {{Attainment}} in {{Rural Areas}}}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/222370/DEFRA-2009-12-02.pdf
+      \endverb
+    \endentry
+    \entry{ofcom2013}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f4ac6c71617233031e82dfdd4638d71c}{%
+           family={{Ofcom}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The Office of Communications}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{f4ac6c71617233031e82dfdd4638d71c}
+      \strng{fullhash}{f4ac6c71617233031e82dfdd4638d71c}
+      \strng{authornamehash}{f4ac6c71617233031e82dfdd4638d71c}
+      \strng{authorfullhash}{f4ac6c71617233031e82dfdd4638d71c}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Availability of Communications Services in the {{UK}}}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://stakeholders.ofcom.org.uk/binaries/research/markets-infrastructure/economic-geography.pdf
+      \endverb
+    \endentry
+    \entry{officefornationalstatistics2013}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9f8b2d15a50db47018c1cd1e3ed90280}{%
+           family={{Office for National Statistics}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Office for National Statistics}%
+      }
+      \list{location}{1}{%
+        {Newport}%
+      }
+      \strng{namehash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{fullhash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{authornamehash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \strng{authorfullhash}{9f8b2d15a50db47018c1cd1e3ed90280}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{2011 {{Census Analysis}} - {{Comparing Rural}} and {{Urban Areas}} of {{England}} and {{Wales}}}
+      \field{type}{Census {{Release}}}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/rural-urban-analysis/comparing-rural-and-urban-areas-of-england-and-wales.html
+      \endverb
+    \endentry
+    \entry{ovenden-hope2015}{report}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1d44ce1f2ba8a2560717f7b5f2042d98}{%
+           family={Ovenden-Hope},
+           familyi={O\bibinithyphendelim H\bibinitperiod},
+           given={Tanya},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=8217ee10e2ee9da14b6bdded9e6f3c73}{%
+           family={Passy},
+           familyi={P\bibinitperiod},
+           given={Rowena},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Plymouth University and The Cornwall College Group}%
+      }
+      \list{location}{1}{%
+        {Plymouth}%
+      }
+      \strng{namehash}{6bd7d7d8a58074b707546c37ecf0a0f0}
+      \strng{fullhash}{6bd7d7d8a58074b707546c37ecf0a0f0}
+      \strng{authornamehash}{6bd7d7d8a58074b707546c37ecf0a0f0}
+      \strng{authorfullhash}{6bd7d7d8a58074b707546c37ecf0a0f0}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Coastal {{Academies}}: {{Changing School Cultures}} in {{Disadvantaged Coastal Regions}} in {{England}}}
+      \field{type}{Research {{Report}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{41}
+      \range{pages}{1}
+      \verb{url}
+      \verb https://www.cornwall.ac.uk/sites/default/files/documents/Coastal%20Academies%20Report_2015_final_2%20Tanya%20Ovenden-Hope%20and%20Rowena%20Passy.pdf
+      \endverb
+    \endentry
+    \entry{pateman2011}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=69531bcf46a78c97cdc3aaa669db1030}{%
+           family={Pateman},
+           familyi={P\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{69531bcf46a78c97cdc3aaa669db1030}
+      \strng{fullhash}{69531bcf46a78c97cdc3aaa669db1030}
+      \strng{authornamehash}{69531bcf46a78c97cdc3aaa669db1030}
+      \strng{authorfullhash}{69531bcf46a78c97cdc3aaa669db1030}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Regional Trends}
+      \field{number}{1}
+      \field{shorttitle}{Rural and Urban Areas}
+      \field{title}{Rural and Urban Areas: Comparing Lives Using Rural/Urban Classifications}
+      \field{volume}{43}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{11\bibrangedash 86}
+      \range{pages}{76}
+      \verb{doi}
+      \verb doi:10.1057/rt.2011.2
+      \endverb
+      \verb{url}
+      \verb http://www.palgrave-journals.com/rt/journal/v43/n1/abs/rt20112a.html
+      \endverb
+    \endentry
+    \entry{perera2016}{book}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=70ba2f0391ae187928516f5bb13ec52c}{%
+           family={Perera},
+           familyi={P\bibinitperiod},
+           given={Natalie},
+           giveni={N\bibinitperiod}}}%
+        {{uniquename=0,hash=3843130a48a4a4523141a26459b589ed}{%
+           family={Treadaway},
+           familyi={T\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=60bfa477b28ddae9ba32d5ec04a96940}{%
+           family={Sellen},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=b92623f6bbf5deb7c9d5520322df695f}{%
+           family={Hutchinson},
+           familyi={H\bibinitperiod},
+           given={Jo},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=de7de5f7fd9c8a7df9dcb249b4ca197e}{%
+           family={Johnes},
+           familyi={J\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+        {{uniquename=0,hash=5a9236d1b2a5b745547b2dba71f35dfe}{%
+           family={Mao},
+           familyi={M\bibinitperiod},
+           given={Lance},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {CentreForum}%
+      }
+      \strng{namehash}{216b4acfe211260c64e8b9bebda5604b}
+      \strng{fullhash}{b3e803bae6c663704636aef2e3cf9f19}
+      \strng{authornamehash}{216b4acfe211260c64e8b9bebda5604b}
+      \strng{authorfullhash}{b3e803bae6c663704636aef2e3cf9f19}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-909274-32-7}
+      \field{shorttitle}{Education in {{England}}}
+      \field{title}{Education in {{England}}: Annual Report 2016}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://dera.ioe.ac.uk/25940/1/education-in-england-2016-web.pdf
+      \endverb
+    \endentry
+    \entry{sammons2014}{report}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,hash=7f77969648c409568abec7a768f9fc61}{%
+           family={Sammons},
+           familyi={S\bibinitperiod},
+           given={Pam},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=2483aac3e8a560e3606a0ee54c681997}{%
+           family={Sylva},
+           familyi={S\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=17533b939173b2ebf43f1bc8f9281be2}{%
+           family={Melhuish},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=e608a4a6a81fc879ab1fc8ac28134ac4}{%
+           family={Siraj},
+           familyi={S\bibinitperiod},
+           given={Iram},
+           giveni={I\bibinitperiod}}}%
+        {{uniquename=0,hash=796418a1e05ef5a7c5c67239f1cfc234}{%
+           family={Taggart},
+           familyi={T\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=54682193d065ddca70c99667c45a03cb}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={Katalin},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=924a79895ff8c699b769d0a701fa930a}{%
+           family={Smees},
+           familyi={S\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{371932188a28c3977a4b173d0f599466}
+      \strng{fullhash}{1fc0e001b9991e939696c099d5fc82bb}
+      \strng{authornamehash}{371932188a28c3977a4b173d0f599466}
+      \strng{authorfullhash}{1fc0e001b9991e939696c099d5fc82bb}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Effective Pre-School, Primary \& Secondary Education Project (EPPSE)}
+      \field{title}{Influences on Students’ {{GCSE}} Attainment and Progress at Age 16}
+      \field{type}{Research {{Brief}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://dera.ioe.ac.uk/20875/1/RR352_-_Influences_on_Students_GCSE_Attainment_and_Progress_at_Age_16.pdf
+      \endverb
+    \endentry
+    \entry{strand2015a}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c62edccd1aa907398ac0bb8d19884267}{%
+           family={Strand},
+           familyi={S\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Department for Education}%
+      }
+      \strng{namehash}{c62edccd1aa907398ac0bb8d19884267}
+      \strng{fullhash}{c62edccd1aa907398ac0bb8d19884267}
+      \strng{authornamehash}{c62edccd1aa907398ac0bb8d19884267}
+      \strng{authorfullhash}{c62edccd1aa907398ac0bb8d19884267}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-78105-499-4}
+      \field{title}{Ethnicity, Deprivation and Educational Achievement at Age 16 in {{England}}: Trends over Time}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/439867/RR439B-Ethnic_minorities_and_attainment_the_effects_of_poverty_annex.pdf.pdf
+      \endverb
+    \endentry
+    \entry{sullivan2013}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=15a786151f3eeee6e80d6f6633f358a8}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=801e2307b7ef2069aa05878c57074948}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={Laura\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{uniquename=0,hash=5b7402a28451df25d1c65bdd4e78ab04}{%
+           family={McConney},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{79757ab969d5c9bf2c482e1cc207bea9}
+      \strng{fullhash}{9add26186ded0c3789838416d539dd76}
+      \strng{authornamehash}{79757ab969d5c9bf2c482e1cc207bea9}
+      \strng{authorfullhash}{9add26186ded0c3789838416d539dd76}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0311-6999, 2210-5328}
+      \field{journaltitle}{The Australian Educational Researcher}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{How Do School Resources and Academic Performance Differ across {{Australia}}’s Rural, Regional and Metropolitan Communities?}
+      \field{volume}{40}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{353\bibrangedash 372}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1007/s13384-013-0100-5
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s13384-013-0100-5
+      \endverb
+    \endentry
+    \entry{sylva2014}{report}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=2483aac3e8a560e3606a0ee54c681997}{%
+           family={Sylva},
+           familyi={S\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=17533b939173b2ebf43f1bc8f9281be2}{%
+           family={Melhuish},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=7f77969648c409568abec7a768f9fc61}{%
+           family={Sammons},
+           familyi={S\bibinitperiod},
+           given={Pam},
+           giveni={P\bibinitperiod}}}%
+        {{uniquename=0,hash=e608a4a6a81fc879ab1fc8ac28134ac4}{%
+           family={Siraj},
+           familyi={S\bibinitperiod},
+           given={Iram},
+           giveni={I\bibinitperiod}}}%
+        {{uniquename=0,hash=796418a1e05ef5a7c5c67239f1cfc234}{%
+           family={Taggart},
+           familyi={T\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+      }
+      \name{editora}{4}{}{%
+        {{hash=924a79895ff8c699b769d0a701fa930a}{%
+           family={Smees},
+           familyi={S\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+        {{hash=54682193d065ddca70c99667c45a03cb}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={Katalin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=25f9eb7c54c6d682deb32c47a6785eac}{%
+           family={Welcomme},
+           familyi={W\bibinitperiod},
+           given={Wesley},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ae6bfcf79ccc72a9eab32f600a2ff517}{%
+           family={Hollingworth},
+           familyi={H\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department for Education}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{0b323d7412b09df93faf5442f4bfb43b}
+      \strng{fullhash}{9c676fb8dff2912a1e88dd3a5c403a8e}
+      \strng{authornamehash}{0b323d7412b09df93faf5442f4bfb43b}
+      \strng{authorfullhash}{9c676fb8dff2912a1e88dd3a5c403a8e}
+      \strng{editoranamehash}{5f0974c143327ab4cb57b37f6f16dd44}
+      \strng{editorafullhash}{52a30f27db6ed6b65ea3442a115fdfa3}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{editoratype}{collaborator}
+      \field{number}{RR354}
+      \field{shorttitle}{Students’ Educational and Developmental Outcomes at Age 16 {{Effective Pre}}-School, {{Primary}} and {{Secondary Education}} ({{EPPSE}} 3-16) {{Project}}}
+      \field{title}{Students’ Educational and Developmental Outcomes at Age 16 {{Effective Pre}}-School, {{Primary}} and {{Secondary Education}} ({{EPPSE}} 3-16) {{Project}}}
+      \field{type}{Department for {{Education Research Report}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://dera.ioe.ac.uk/20873/1/RR354_-_Students__educational_and_developmental_outcomes_at_age_16.pdf
+      \endverb
+    \endentry
+    \entry{theobald2015}{report}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c7c13232233d8f4759655edd9244b227}{%
+           family={Theobald},
+           familyi={T\bibinitperiod},
+           given={Katy},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=4d4a1ca2003b7b576b514b4ba845a103}{%
+           family={Odell},
+           familyi={O\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Future Leaders Trust}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{fa1c2d0f5f9051a545d69ed7ca13eaa5}
+      \strng{fullhash}{fa1c2d0f5f9051a545d69ed7ca13eaa5}
+      \strng{authornamehash}{fa1c2d0f5f9051a545d69ed7ca13eaa5}
+      \strng{authorfullhash}{fa1c2d0f5f9051a545d69ed7ca13eaa5}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{bibtex[langid=english]}
+      \field{title}{Isolated Schools: {{Out}} on a Limb}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://www.future-leaders.org.uk/documents/195/Isolated_schools_Out_on_a_limb.pdf
+      \endverb
+      \keyw{other}
+    \endentry
+    \entry{townsend2013}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=117f0b2c0afb47db727f1fa77741170c}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{uniquename=0,hash=2846a6f4dd47f4220fb363f6147605a6}{%
+           family={Sathiaseelan},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=8413614b7e49a4ff07645712a50e6a20}{%
+           family={Fairhurst},
+           familyi={F\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=ec9f9b809218a0335a5d1495c6c98630}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b602bbe447492c3fc6a5f9fbecde9d2}
+      \strng{fullhash}{4eb0e1a96ccf5ad47e28eaff7c4e8482}
+      \strng{authornamehash}{3b602bbe447492c3fc6a5f9fbecde9d2}
+      \strng{authorfullhash}{4eb0e1a96ccf5ad47e28eaff7c4e8482}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0269-0942, 1470-9325}
+      \field{journaltitle}{Local Economy}
+      \field{langid}{english}
+      \field{number}{6}
+      \field{title}{Enhanced Broadband Access as a Solution to the Social and Economic Problems of the Rural Digital Divide}
+      \field{volume}{28}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{580\bibrangedash 595}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1177/0269094213496974
+      \endverb
+      \verb{url}
+      \verb http://lec.sagepub.com/lookup/doi/10.1177/0269094213496974
+      \endverb
+    \endentry
+    \entry{ukstatisticsauthority2009}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=84279404705396d3136e7a44c8cec4c7}{%
+           family={{UK Statistics Authority}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {UK Statistics Authority}%
+      }
+      \strng{namehash}{84279404705396d3136e7a44c8cec4c7}
+      \strng{fullhash}{84279404705396d3136e7a44c8cec4c7}
+      \strng{authornamehash}{84279404705396d3136e7a44c8cec4c7}
+      \strng{authorfullhash}{84279404705396d3136e7a44c8cec4c7}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-85774-902-1}
+      \field{langid}{english}
+      \field{note}{OCLC: 913028056}
+      \field{title}{Code of Practice for Official Statistics}
+      \field{year}{2009}
+      \field{dateera}{ce}
+    \endentry
+    \entry{unescoinstituteforstatistics2012}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a556666afc2327cd098e859cccfd7cf0}{%
+           family={{UNESCO Institute for Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montreal, Quebec}%
+      }
+      \list{publisher}{1}{%
+        {UNESCO Institute for Statistics}%
+      }
+      \strng{namehash}{a556666afc2327cd098e859cccfd7cf0}
+      \strng{fullhash}{a556666afc2327cd098e859cccfd7cf0}
+      \strng{authornamehash}{a556666afc2327cd098e859cccfd7cf0}
+      \strng{authorfullhash}{a556666afc2327cd098e859cccfd7cf0}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-92-9189-123-8}
+      \field{langid}{english}
+      \field{note}{OCLC: 879578739}
+      \field{shorttitle}{International Standard Classification of Education}
+      \field{title}{International Standard Classification of Education: {{ISCED}} 2011}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{unescoinstituteforstatistics2015}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a556666afc2327cd098e859cccfd7cf0}{%
+           family={{UNESCO Institute for Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OECD Publishing}%
+      }
+      \strng{namehash}{a556666afc2327cd098e859cccfd7cf0}
+      \strng{fullhash}{a556666afc2327cd098e859cccfd7cf0}
+      \strng{authornamehash}{a556666afc2327cd098e859cccfd7cf0}
+      \strng{authorfullhash}{a556666afc2327cd098e859cccfd7cf0}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-92-64-22835-1 978-92-64-22836-8}
+      \field{langid}{english}
+      \field{title}{{{ISCED}} 2011 {{Operational Manual}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://www.oecd-ilibrary.org/education/isced-2011-operational-manual_9789264228368-en
+      \endverb
+    \endentry
+    \entry{walker2010c}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=24bee0c93739e7b85b3f612f777f079c}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=6b963cac9be38bef3f30cbfeb5d7e565}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{75d55ac87e2cd27a881962ed3f1ec477}
+      \strng{fullhash}{75d55ac87e2cd27a881962ed3f1ec477}
+      \strng{authornamehash}{75d55ac87e2cd27a881962ed3f1ec477}
+      \strng{authorfullhash}{75d55ac87e2cd27a881962ed3f1ec477}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of Rural Studies}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{shorttitle}{Parental Choice and the Rural Primary School}
+      \field{title}{Parental Choice and the Rural Primary School: {{Lifestyle}}, Locality and Loyalty}
+      \field{volume}{26}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{pages}{241\bibrangedash 249}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.jrurstud.2009.12.002
+      \endverb
+      \verb{url}
+      \verb http://linkinghub.elsevier.com/retrieve/pii/S0743016709000710
+      \endverb
+    \endentry
+    \entry{williams2015}{report}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=50b69a38a94d090779e8e1ce3f9c5114}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Fiona\bibnamedelima Jayne},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=4b993d0655a690eb687427bf7e122b93}{%
+           family={Philip},
+           familyi={P\bibinitperiod},
+           given={Lorna\bibnamedelima Jennifer},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=3299ba831e0c56ddd15024409442f329}{%
+           family={Farrington},
+           familyi={F\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=cfaf384fe5d81c836f535e739e0cc823}{%
+           family={Fairhurst},
+           familyi={F\bibinitperiod},
+           given={Gorry},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e24404dc6571728b41956c8ef8a1a9e9}
+      \strng{fullhash}{d21cf32474406b5a8f33226686654eff}
+      \strng{authornamehash}{e24404dc6571728b41956c8ef8a1a9e9}
+      \strng{authorfullhash}{d21cf32474406b5a8f33226686654eff}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{University of {{Aberdeen}}, {{Dot}}. {{Rural Written Evidence}} to the {{Commons Select Committee Rural Broadband}} and {{Digital}}-Only {{Services Inquiry}} for {{Environment}}, {{Food}} and {{Rural Affairs}} ({{EFRA}})}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb http://aura.abdn.ac.uk/handle/2164/4344
+      \endverb
+    \endentry
+    \entry{wilshaw2015}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=10e33e93c06bf3bb18af95dc7aa068fa}{%
+           family={Wilshaw},
+           familyi={W\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ofsted}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{10e33e93c06bf3bb18af95dc7aa068fa}
+      \strng{fullhash}{10e33e93c06bf3bb18af95dc7aa068fa}
+      \strng{authornamehash}{10e33e93c06bf3bb18af95dc7aa068fa}
+      \strng{authorfullhash}{10e33e93c06bf3bb18af95dc7aa068fa}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The Annual Report of {{Her Majesty}}'s {{Chief Inspector}} of {{Education}}, {{Children}}'s {{Services}} and {{Skills}} 2014/15}
+      \field{type}{Annual {{Report}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

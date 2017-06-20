@@ -1,0 +1,17 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '/Users/evanodell/Google Drive/Work/Isolated Schools/preprint/.texpadtmp/preprint.blg'
+[65] biber-darwin:303> INFO - === Fri Jun  2, 2017, 23:16:19
+[107] Biber.pm:359> INFO - Reading '/Users/evanodell/Google Drive/Work/Isolated Schools/preprint/.texpadtmp/preprint.bcf'
+[256] Biber.pm:835> INFO - Found 59 citekeys in bib section 0
+[272] Biber.pm:3670> INFO - Processing section 0
+[295] Biber.pm:3840> INFO - Looking for bibtex format file '/Users/evanodell/Google Drive/Work/Isolated Schools/preprint/IsolatedSchools.bib' for section 0
+[302] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[320] bibtex.pm:1292> INFO - Found BibTeX data source '/Users/evanodell/Google Drive/Work/Isolated Schools/preprint/IsolatedSchools.bib'
+[407] Utils.pm:164> WARN - ISBN '978-92-64-22835-1 978-92-64-22836-8' in entry 'unescoinstituteforstatistics2015' is invalid - run biber with '--validate_datamodel' for details.
+[700] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[700] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[700] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-GB'
+[700] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-GB'
+[783] bbl.pm:608> INFO - Writing '/Users/evanodell/Google Drive/Work/Isolated Schools/preprint/.texpadtmp/preprint.bbl' with encoding 'UTF-8'
+[803] bbl.pm:712> INFO - Output to /Users/evanodell/Google Drive/Work/Isolated Schools/preprint/.texpadtmp/preprint.bbl
+[803] Biber.pm:109> INFO - WARNINGS: 1
